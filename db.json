@@ -1,0 +1,116 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "rating": 4.4,
+      "poster": "/images/Inception.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "rating": 4.5,
+      "poster": "/images/The Dark Knight.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "genre": "Drama",
+      "rating": 4.3,
+      "poster": "/images/Interstellar.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Avengers: Endgame",
+      "genre": "Action",
+      "rating": 4.2,
+      "poster": "/images/Avengers Endgame.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Matrix",
+      "genre": "Sci-Fi",
+      "rating": 4.4,
+      "poster": "/images/The Matrix.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Parasite",
+      "genre": "Drama",
+      "rating": 4.3,
+      "poster": "/images/Parasite.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Iron Man",
+      "genre": "Action",
+      "rating": 3.9,
+      "poster": "/images/Iron Man.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Whiplash",
+      "genre": "Drama",
+      "rating": 4.7,
+      "poster": "/images/Whiplash.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Coco",
+      "genre": "Animation",
+      "rating": 4.8,
+      "poster": "/images/Coco.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Knives Out",
+      "genre": "Mystery",
+      "rating": 4.1,
+      "poster": "/images/Knives Out.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Pride and Prejudice",
+      "genre": "Romance",
+      "rating": 4.3,
+      "poster": "/images/Pride and Prejudice.jpg"
+    },
+    {
+      "id": 12,
+      "title": "The Social Network",
+      "genre": "Biography",
+      "rating": 4.0,
+      "poster": "/images/The Social Network.jpg"
+    },
+    {
+      "id": 13,
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "rating": 4.9,
+      "poster": "/images/The Shawshank Redemption.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Toy Story",
+      "genre": "Animation",
+      "rating": 4.6,
+      "poster": "/images/Toy Story.jpg"
+    },
+    {
+      "id": 15,
+      "title": "The Room",
+      "genre": "Drama",
+      "rating": 3.2,
+      "poster": "/images/The Room.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Sharknado",
+      "genre": "Comedy",
+      "rating": 3.4,
+      "poster": "/images/Sharknado.jpg"
+    }    
+  ]
+}
