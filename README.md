@@ -33,4 +33,4 @@ To run Streamify on your local machine:
 ## Technologies Used 🚀
 - React, Vite, and Bootstrap for the frontend.
 - JSON Server for the backend.
-- Deployed on Netlify and Vercel.
+- Deployed on Github, Netlify and Vercel.
